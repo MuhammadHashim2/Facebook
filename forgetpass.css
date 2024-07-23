@@ -1,0 +1,120 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: #f0f2f5;
+}
+header{
+    padding: 10px;
+    height: 38px;
+    background-color: white;
+}
+h1{
+    color: #1877f2;
+    padding-left: 2px;
+    margin: 6px;
+}
+h1.heading2{
+    color: black;
+    font-size: 20px;
+    text-align: left;
+    margin: 20px;
+}
+span.heading{
+    float: left;
+}
+span.main{
+    float: right;
+    margin-right: 20px;
+}
+input{
+    width: 250px;
+    height: 38px;
+    color: black;
+    font-size: 16px;
+    margin-right: 10px;
+    padding-left: 16px;
+    padding-left: 16px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+}
+input.email{
+    width: 440px;
+    margin-bottom: 20px;
+    height: 50px;
+    margin-left: 10px;
+}
+section.main1{
+    background-color: white;
+    height: 100px;
+    padding: 80px;
+    margin-top: 100px;
+    padding-left: 140px;
+    text-align: justify;
+    word-spacing: 10px;
+    padding-top: 140px;
+    line-height: 20px;
+    color: #8a8d91;
+}
+p.copy{
+    text-align: left;
+    font-size: 12px;
+    cursor: pointer;
+}
+input[type="submit"]{
+    background-color: #1877f2;
+    color: white;
+    width: 80px;
+    font-weight: bold;
+    font-size: 16px;
+    border: 1px solid transparent;
+    padding-left: 3px;
+    cursor: pointer;
+}
+p{
+    font-size: 17px;
+    text-align: justify;
+    margin: 15px;
+    margin-left: 20px;
+    line-height: 20px;
+    margin-right: 20px;
+}
+a{
+    color: #1877f2;
+    text-decoration: none;
+}
+main{
+    height: 300px;
+}
+div{
+   margin-top: 90px;
+   border: 1px solid #dddfe2;
+   border-radius: 6px;
+   background-color: white;
+   height: 280px;
+   width: 500px;
+}
+button.search{
+    background-color: #1877f2;
+    color: white;
+}
+button{
+    cursor: pointer;
+    width: 100px;
+    height: 38px;
+    float: right;
+    color: rgba(0, 0, 0, 0.733);
+    margin-right: 15px;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 20px;
+    background-color: #dddfe2;
+    border: 1px solid transparent;
+    border-radius: 6px ;
+}
+a:hover{
+    text-decoration: underline;
+    text-decoration-color: #1877f2;
+}

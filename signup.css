@@ -1,0 +1,155 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+body{
+    background-color: #f0f2f5;
+    margin: 0;
+    padding: 0;
+}
+input[type="text"]{
+    width: 165px;
+    height: 12px;
+    margin-top: 10px;
+}
+input.text{
+    float: left;
+    margin-left: 20px;
+    font-size: medium;
+}
+div.box>a:hover{
+    text-decoration: underline;
+    text-decoration-color: #1877f2;
+}
+section.main1{
+    background-color: white;
+    height: 120px;
+    padding: 80px;
+    margin-top: 60px;
+    padding-left: 140px;
+    text-align: justify;
+    word-spacing: 10px;
+    padding-top: 140px;
+    line-height: 20px;
+    color: #8a8d91;
+}
+p.copy{
+    text-align: left;
+    cursor: pointer;
+    font-size: 12px;
+}
+h1.heading{
+    color: #1877f2;
+    margin: 20px;
+    font-size: 45px;
+    margin-top: 50px;
+    
+}
+p.heading1{
+    color: #1c1e21;
+    font-size: x-large;
+    font-weight: bold;
+    margin-bottom: 0;
+}
+p.heading3{
+    color: #606770;
+    font-size: 16px;
+    margin-top: 0;
+}
+p.gender{
+    text-align: left;
+    margin-left: 20px;
+    color: #606770;
+}
+select{
+    width: 127px;
+    height: 38px;
+    padding: 8px;
+    margin: 5px;
+    font-size: medium;
+    margin-top: 0px;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+}
+p.date{
+    font-size: smaller;
+    text-align: left;
+    color: #606770;
+    margin-left: 20px;
+}
+input{
+    width: 380px;
+    height: 12px;
+    font-size: 15px;
+    color: black;
+    border: 1px solid #dddfe2;
+    border-radius: 6px;
+    margin: 5px;
+    padding-top: 14px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-bottom: 14px;
+    
+}
+abbr{
+    text-decoration: none;
+}
+i.fa-question-circle{
+  font-size: 13px;
+  color: black;
+}
+input[type="submit"]{
+    background-color: #00a400;
+    color: white;
+    width: 194px;
+    height: 50px;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 20px;
+}
+div.box{
+    border: 1px solid white;
+    border-radius: 6px;
+    box-shadow: 2px 2px 1px white;
+    padding-bottom: 32px;
+    background-color: white;
+    width:  450px;
+    height: 630px;
+}
+div.box>a{
+    text-align: center;
+    padding: 1px;
+    padding-top: 0px;
+    font-size: 18px;
+    text-decoration: none;
+    color: #1877f2;
+}
+div.gender1{
+    width: 120px;
+    height: 33px;
+    border: 1px solid #dddfe2;
+    margin: 10px;
+    margin-top: 0px;
+    float: left;
+    border-radius: 6px;
+    padding-left: 1px;
+    padding-top: 12px;
+}
+div#first{
+    margin-left: 20px;
+}
+a.same{
+    color: #385898;
+    text-decoration: none;
+}
+p.para{
+    color: #8a8d91;
+    font-size: 11px;
+    line-height: 15px;
+    text-align: justify;
+    margin-left: 20px;
+}
+input[type="radio"]{
+    width: 14px;
+    margin-left: 40px;
+    height: 14px;
+}
